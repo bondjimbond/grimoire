@@ -2,8 +2,8 @@
 layout: post
 title: "Dominate Beast"
 date: 2015-07-14
-sources: [PHB.234]
-tags: [cleric (nature), druid, warlock (fae), warlock (great old one), sorcerer, level4, enchantment]
+sources: [PHB.234, SRD.137]
+tags: [cleric (nature), druid, paladin (conquest), warlock (fae), warlock (great old one), sorcerer, level4, enchantment]
 ---
 
 **4th-level enchantment**

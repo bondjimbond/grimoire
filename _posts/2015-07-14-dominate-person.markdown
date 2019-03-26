@@ -2,8 +2,8 @@
 layout: post
 title: "Dominate Person"
 date: 2015-07-14
-sources: [PHB.235]
-tags: [bard, cleric (trickery), paladin (oathbreaker), sorcerer, warlock (fae), warlock (great old one), wizard, level5, enchantment]
+sources: [PHB.235, SRD.138]
+tags: [bard, cleric (trickery), paladin (conquest),paladin (oathbreaker), sorcerer, warlock (fae), warlock (great old one), wizard, level5, enchantment]
 ---
 
 **5th-level enchantment**

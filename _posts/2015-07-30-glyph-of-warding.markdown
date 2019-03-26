@@ -2,7 +2,7 @@
 layout: post
 title: "Glyph of Warding"
 date: 2015-07-30
-sources: [PHB.245]
+sources: [PHB.245, SRD.149]
 tags: [bard, cleric, wizard, level3, abjuration]
 ---
 
@@ -12,7 +12,7 @@ tags: [bard, cleric, wizard, level3, abjuration]
 
 **Range**: Touch
 
-**Components**: V, S, M, (incense and powdered diamond worth at least 200 gp, which the spell consumes)
+**Components**: V, S, M (incense and powdered diamond worth at least 200 gp, which the spell consumes)
 
 **Duration**: Until dispelled or triggered
 
